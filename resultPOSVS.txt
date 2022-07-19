@@ -1,0 +1,139 @@
+-----Results----- 
+
+-----------------------------------------------------------------------------
+Restr number         Bond            Aminoacid  Number    
+-----------------------------------------------------------------------------
+Restr0               ('Hydrogen Bonds', 'ASP', 50)Restr1               ('pi-Stacking', 'HIS', 52)Restr2               ('pi-Stacking', 'GLY', 53)Restr3               ('pi-Stacking', 'TYR', 235)Restr4               ('pi-Stacking', 'VAL', 236)
+
+
+
+----------------------Restriction choosed: set(pvs.Restr0) & set(pvs.Restr1) | set(pvs.Restr0) & set(pvs.Restr2) | set(pvs.Restr0) & set(pvs.Restr3) | set(pvs.Restr0) & set(pvs.Restr4)----------------------
+
+
+&-------> AND
+|-------> OR
+ gold_soln_11k_best_m8394_1_complex.pdb
+
+ gold_soln_11k_best_m9726_7_complex.pdb
+
+ gold_soln_11k_best_m8502_7_complex.pdb
+
+ gold_soln_11k_best_m9472_6_complex.pdb
+
+ gold_soln_11k_best_m8660_10_complex.pdb
+
+ gold_soln_11k_best_m10670_7_complex.pdb
+
+ gold_soln_11k_best_m10305_3_complex.pdb
+
+ gold_soln_11k_best_m10692_9_complex.pdb
+
+ gold_soln_11k_best_m8837_3_complex.pdb
+
+ gold_soln_11k_best_m8242_10_complex.pdb
+
+ gold_soln_11k_best_m10455_7_complex.pdb
+
+ gold_soln_11k_best_m8433_8_complex.pdb
+
+ gold_soln_11k_best_m8988_6_complex.pdb
+
+ gold_soln_11k_best_m10760_3_complex.pdb
+
+ gold_soln_11k_best_m10286_1_complex.pdb
+
+ gold_soln_11k_best_m10817_1_complex.pdb
+
+ gold_soln_11k_best_m9056_4_complex.pdb
+
+ gold_soln_11k_best_m10926_10_complex.pdb
+
+ gold_soln_11k_best_m10917_6_complex.pdb
+
+ gold_soln_11k_best_m9677_10_complex.pdb
+
+ gold_soln_11k_best_m10825_1_complex.pdb
+
+ gold_soln_11k_best_m10017_4_complex.pdb
+
+ gold_soln_11k_best_m9255_9_complex.pdb
+
+ gold_soln_11k_best_m10815_5_complex.pdb
+
+ gold_soln_11k_best_m9513_7_complex.pdb
+
+ gold_soln_11k_best_m9249_9_complex.pdb
+
+ gold_soln_11k_best_m10832_7_complex.pdb
+
+ gold_soln_11k_best_m10800_2_complex.pdb
+
+ gold_soln_11k_best_m8973_6_complex.pdb
+
+ gold_soln_11k_best_m8753_6_complex.pdb
+
+ gold_soln_11k_best_m9523_1_complex.pdb
+
+ gold_soln_11k_best_m9849_5_complex.pdb
+
+ gold_soln_11k_best_m10835_4_complex.pdb
+
+ gold_soln_11k_best_m9477_7_complex.pdb
+
+ gold_soln_11k_best_m9772_8_complex.pdb
+
+ gold_soln_11k_best_m10448_10_complex.pdb
+
+ gold_soln_11k_best_m10177_5_complex.pdb
+
+ gold_soln_11k_best_m10614_2_complex.pdb
+
+ gold_soln_11k_best_m8313_2_complex.pdb
+
+ gold_soln_11k_best_m10597_8_complex.pdb
+
+ gold_soln_11k_best_m9141_3_complex.pdb
+
+ gold_soln_11k_best_m9903_6_complex.pdb
+
+ gold_soln_11k_best_m10788_9_complex.pdb
+
+ gold_soln_11k_best_m8879_7_complex.pdb
+
+ gold_soln_11k_best_m9351_6_complex.pdb
+
+ None
+
+ gold_soln_11k_best_m9134_10_complex.pdb
+
+ gold_soln_11k_best_m10196_4_complex.pdb
+
+ gold_soln_11k_best_m9961_2_complex.pdb
+
+ gold_soln_11k_best_m9121_5_complex.pdb
+
+ gold_soln_11k_best_m10876_10_complex.pdb
+
+ gold_soln_11k_best_m9672_5_complex.pdb
+
+ gold_soln_11k_best_m8788_4_complex.pdb
+
+ gold_soln_11k_best_m10775_3_complex.pdb
+
+ gold_soln_11k_best_m9590_10_complex.pdb
+
+ gold_soln_11k_best_m8700_2_complex.pdb
+
+ gold_soln_11k_best_m10226_3_complex.pdb
+
+ gold_soln_11k_best_m8534_5_complex.pdb
+
+ gold_soln_11k_best_m10134_5_complex.pdb
+
+ gold_soln_11k_best_m8772_5_complex.pdb
+
+ gold_soln_11k_best_m9106_2_complex.pdb
+
+ gold_soln_11k_best_m8805_4_complex.pdb
+
+ gold_soln_11k_best_m9418_6_complex.pdb
